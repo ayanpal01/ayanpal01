@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I treat every side project like a startup 🚀  
 - 📬 Email me at: `ayanpal260@gmail.com`  
 
-**[ayanpal.dev](https://ayanpal.dev)** — Explore my projects, resume, and more.
+**[ayanpal.tech](https://ayanpal.tech)** — Explore my projects, resume, and more.
 
 ---
 
