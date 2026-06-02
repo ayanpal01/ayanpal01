@@ -16,24 +16,34 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ayanpal.tech-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://www.ayanpal.tech)
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email-ayanpal260@gmail.com-FF6B6B?style=for-the-badge&labelColor=0a0a0a)](mailto:ayanpal260@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/ayanpal01)
-[![GitHub](https://img.shields.io/badge/GitHub-@ayanpal01-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ayanpal01)
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_My_Work-FFDD00?style=for-the-badge&labelColor=0a0a0a)](https://buymeacoffee.com/ayanpal01)
+<p align="left">
+<a href="https://x.com/ayanpal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayanpal01" height="40" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/ayanpal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ayanpal01" height="40" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/ayanpal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayanpal01" height="40" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/ayanpal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayanpal01" height="40" width="40" /></a>
+&nbsp;&nbsp;
+<a href="https://www.leetcode.com/u/ayanpal01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayanpal01" height="40" width="40" /></a>
+</p>
+
+<p><a href="https://www.buymeacoffee.com/ayanpal01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayanpal01" /></a></p><br><br>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df43f4b7ebd2a2b2e3a4b90/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<!--
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZrNHF0MWE0ZnpqOXc4bW92MWtxeTRpZ3E4OHY4eXQ1bnM2enZlMiZlcD12MXNfZ2lmdF90cmVuZGluZyZjdD1nZw/qgQUggAC3Pfv687qOQ/giphy.gif"/> -->
 
 ## `whoami` 🧑‍💻
 
 ```yaml
-name       : Ayan Pal
-role       : Full Stack Developer & MCA Student
-university : Adamas University
-location   : India 🇮🇳
+name: Ayan Pal
+role: Full Stack Developer &  MCA Student
+university: Adamas University
+location: India 🇮🇳
 
 currently_learning:
   - AI & Automation
@@ -57,16 +67,19 @@ motto: "Treat every side project like a startup 🚀"
 <div align="center">
 
 ### 🎨 Frontend Craft
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs&theme=dark" />
 </p>
 
 ### 🔧 Backend & Data
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,java,c,cpp&theme=dark" />
 </p>
 
 ### 🛠️ Toolbelt
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,githubactions,npm&theme=dark" />
 </p>
@@ -79,11 +92,14 @@ motto: "Treat every side project like a startup 🚀"
 
 ```javascript
 const ayan = {
-  building   : ["Production-ready Full Stack apps", "AI-powered tools & smart automations"],
-  polishing  : ["UI/UX with Tailwind + modern design systems"],
-  grinding   : ["DSA & problem-solving (250+ LeetCode ✅)"],
+  building: [
+    "Production-ready Full Stack apps",
+    "AI-powered tools & smart automations",
+  ],
+  polishing: ["UI/UX with Tailwind + modern design systems"],
+  grinding: ["DSA & problem-solving (400+ LeetCode ✅)"],
   architecting: ["Scalable system design concepts"],
-  vibe       : "Always learning. Always shipping. ⚡"
+  vibe: "Always learning. Always shipping. ⚡",
 };
 ```
 
@@ -93,12 +109,12 @@ const ayan = {
 
 <div align="center">
 
-| 🏅 Achievement | 📌 Details |
-|:---|:---|
+| 🏅 Achievement           | 📌 Details                                                            |
+| :----------------------- | :-------------------------------------------------------------------- |
 | 🎮 Hackathon Participant | **Flipkart GRID 6.0** — One of India's largest engineering challenges |
-| 💡 LeetCode Grinder | **400+ problems solved** — Consistently sharpening problem-solving |
-| 🎓 Academic Excellence | Graduated with **8.91 CGPA** |
-| 🛠️ Project Builder | Web apps · Dashboards · SaaS tools · Dev utilities |
+| 💡 LeetCode Grinder      | **400+ problems solved** — Consistently sharpening problem-solving    |
+| 🎓 Academic Excellence   | Graduated with **8.91 CGPA**                                          |
+| 🛠️ Project Builder       | Web apps · Dashboards · SaaS tools · Dev utilities                    |
 
 </div>
 
@@ -134,21 +150,19 @@ const ayan = {
 
 <div align="center">
 
-*Open to collaborations, freelance projects, and exciting opportunities!*
+_Open to collaborations, freelance projects, and exciting opportunities!_
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ayanpal.tech)
 [![Email](https://img.shields.io/badge/📩_Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanpal260@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanpal01)
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayanpal01)
-
 <br/>
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=ayanpal01&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 
-*"Code is poetry. Ship it with pride."* ✨
+_"Code is poetry. Ship it with pride."_ ✨
 
 </div>
