@@ -17,7 +17,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/📧_Email-ayanpal260@gmail.com-FF6B6B?style=for-the-badge&labelColor=0a0a0a)](mailto:ayanpal260@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/ayanpal01)
 [![GitHub](https://img.shields.io/badge/GitHub-@ayanpal01-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ayanpal01)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_My_Work-FFDD00?style=for-the-badge&labelColor=0a0a0a)](https://buymeacoffee.com/ayanpal01)
 
@@ -108,7 +108,7 @@ const ayan = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayanpal01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpal01&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ayanpal01&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%" />
 </div>
 
 <div align="center">
@@ -140,7 +140,7 @@ const ayan = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ayanpal.tech)
 [![Email](https://img.shields.io/badge/📩_Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanpal260@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanpal01)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayanpal01)
 
 <br/>
