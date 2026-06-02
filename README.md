@@ -1,84 +1,154 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there, I'm Ayan Pal 👋</h1>
-<h3 align="center">MCA Student | Full Stack Developer | Tech Explorer</h3>
+<div align="center">
 
-### About Me
+```
+░█████╗░██╗░░░██╗░█████╗░███╗░░██╗  ██████╗░░█████╗░██╗░░░░░
+██╔══██╗╚██╗░██╔╝██╔══██╗████╗░██║  ██╔══██╗██╔══██╗██║░░░░░
+███████║░╚████╔╝░███████║██╔██╗██║  ██████╔╝███████║██║░░░░░
+██╔══██║░░╚██╔╝░░██╔══██║██║╚████║  ██╔═══╝░██╔══██║██║░░░░░
+██║░░██║░░░██║░░░██║░░██║██║░╚███║  ██║░░░░░██║░░██║███████╗
+╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝  ╚═╝░░░░░╚═╝░░╚═╝╚══════╝
+```
 
-- 🎓 MCA @ Adamas University  
-- 🧠 Learning: `Next.js`, `AI`, `TypeScript`, `System Design`, `GSAP`, `Three.js`  
-- ⚡ Fun fact: I treat every side project like a startup 🚀  
-- 📬 Email me at: `ayanpal260@gmail.com`  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ayan+Pal+%F0%9F%91%8B;MCA+Student+%40+Adamas+University;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 
-**[ayanpal.tech](https://ayanpal.tech)** — Explore my projects, resume, and more.
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ayanpal.tech-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://www.ayanpal.tech)
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_Email-ayanpal260@gmail.com-FF6B6B?style=for-the-badge&labelColor=0a0a0a)](mailto:ayanpal260@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-@ayanpal01-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ayanpal01)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_My_Work-FFDD00?style=for-the-badge&labelColor=0a0a0a)](https://buymeacoffee.com/ayanpal01)
+
+</div>
 
 ---
 
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df43f4b7ebd2a2b2e3a4b90/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
-### Tech Stack
+## `whoami` 🧑‍💻
 
-<div align="" style="line-height: 1.8;">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Framer%20Motion-EF4B4B?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/-shadcn/ui-111827?style=for-the-badge&logo=shadcn&logoColor=white" />
+```yaml
+name       : Ayan Pal
+role       : Full Stack Developer & MCA Student
+university : Adamas University
+location   : India 🇮🇳
+
+currently_learning:
+  - AI & Automation
+  - System Design at Scale
+  - GSAP & Three.js Animations
+
+interests:
+  - Building SaaS-style apps
+  - Developer tooling
+  - UI/UX that sparks joy
+
+motto: "Treat every side project like a startup 🚀"
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Universe
+
+<div align="center">
+
+### 🎨 Frontend Craft
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs&theme=dark" />
+</p>
+
+### 🔧 Backend & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,java,c,cpp&theme=dark" />
+</p>
+
+### 🛠️ Toolbelt
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,githubactions,npm&theme=dark" />
+</p>
+
 </div>
 
+---
 
-### 🏆 Achievements & Certifications
+## 🚧 Currently Shipping
 
-- ✅ Participant @ Flipkart GRID 6.0 Hackathon
-- 🥇 Solved 250+ LeetCode problems
-- 🎓 Completed Graduation with 8.91 CGPA
-- 🧪 Passionate about building: Dashboards, SaaS, Devtools
+```javascript
+const ayan = {
+  building   : ["Production-ready Full Stack apps", "AI-powered tools & smart automations"],
+  polishing  : ["UI/UX with Tailwind + modern design systems"],
+  grinding   : ["DSA & problem-solving (250+ LeetCode ✅)"],
+  architecting: ["Scalable system design concepts"],
+  vibe       : "Always learning. Always shipping. ⚡"
+};
+```
 
-### 📈 GitHub Stats & Activity
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanpal404&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpal404&theme=radical&hide_border=true" width="47%" />
-</p>
+## 🏆 Achievements Unlocked
 
+<div align="center">
 
-### 📚 Most Used Languages
+| 🏅 Achievement | 📌 Details |
+|:---|:---|
+| 🎮 Hackathon Participant | **Flipkart GRID 6.0** — One of India's largest engineering challenges |
+| 💡 LeetCode Grinder | **400+ problems solved** — Consistently sharpening problem-solving |
+| 🎓 Academic Excellence | Graduated with **8.91 CGPA** |
+| 🛠️ Project Builder | Web apps · Dashboards · SaaS tools · Dev utilities |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpal404&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=portfolio" />
-</p>
+</div>
 
+---
 
-### 📬 Let's Connect
+## 📊 GitHub Activity
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/ayan-pal-781513373/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-<a href="mailto:ayanpal260@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
-<a href="https://ayanpal.dev" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white"/> </a> 
-<a href="https://leetcode.com/ayanpal24/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
-</a>
- </p>
- 
-### <p align="center"> 💖 Thank you for visiting my profile! <br /><br /> <img src="https://komarev.com/ghpvc/?username=ayanpal404&style=flat-square&color=blue" alt="AyanPal GitHub Profile Views" /> </p> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanpal01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpal01&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpal01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpal01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="49%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpal404&theme=react-dark&hide_border=true" />
-</p>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayanpal01/ayanpal01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayanpal01/ayanpal01/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ayanpal01/ayanpal01/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Build Something Together
+
+<div align="center">
+
+*Open to collaborations, freelance projects, and exciting opportunities!*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ayanpal.tech)
+[![Email](https://img.shields.io/badge/📩_Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanpal260@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayanpal01)
+
+<br/>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=ayanpal01&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+
+*"Code is poetry. Ship it with pride."* ✨
+
+</div>
