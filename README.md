@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ayanpal.tech-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://www.ayan-pal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ayanpal.tech-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://ayan-pal.vercel.app)
 <br/>
 
 <p align="left">
